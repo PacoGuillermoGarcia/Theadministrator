@@ -5,26 +5,26 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>http://localhost:4000</loc>
+            <loc></loc>
             <lastmod>2019-06-07T00:00:00+00:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://localhost:4000/debian/2019/10/24/script-repositorios.html</loc>
+                <loc>/debian/2019/10/24/script-repositorios.html</loc>
                 <lastmod>2019-10-24T13:27:30+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/debian/2019/10/24/drupal.html</loc>
+                <loc>/debian/2019/10/24/drupal.html</loc>
                 <lastmod>2019-10-24T13:27:30+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/debian/2019/10/24/compilacion-con-makefile.html</loc>
+                <loc>/debian/2019/10/24/compilacion-con-makefile.html</loc>
                 <lastmod>2019-10-24T13:27:30+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/2019/10/23/welcome-to-jekyll.html</loc>
+                <loc>/2019/10/23/welcome-to-jekyll.html</loc>
                 <lastmod>2019-10-23T17:33:36+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
